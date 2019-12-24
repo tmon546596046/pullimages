@@ -1,8 +1,9 @@
 #!/bin/bash
 set -x -e
 
-if [[]]; then
-docker login -u $TARGET_REPO -p $TARGET_REPO_PASSWORD
+if [[ -z $TARGET_REPO_PASSWORD ]]; then
+  docker login -u $TARGET_REPO -p $TARGET_REPO_PASSWORD  
+fi
 
 cat images | while read line
 do
