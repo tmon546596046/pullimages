@@ -10,6 +10,6 @@ do
 echo save $line to dockerhub $TARGET_REPO
 docker pull $line
 docker tag $line $TARGET_REPO/${line##*/}
-docker push $TARGET_REPO/${line#*/}
+docker push $TARGET_REPO/${line##*/}
 done
 
