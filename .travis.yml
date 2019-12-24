@@ -4,4 +4,4 @@ services:
 - docker
 
 script:
-- bash -c save_images.sh
+- bash save_images.sh
