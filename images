@@ -1,0 +1,16 @@
+gcr.io/spinnaker-marketplace/clouddriver:4.2.3-20190111151755
+gcr.io/spinnaker-marketplace/clouddriver:4.2.3-20190111151755
+gcr.io/spinnaker-marketplace/deck:2.6.3-20190114132151
+gcr.io/spinnaker-marketplace/deck:2.6.3-20190114132151
+gcr.io/spinnaker-marketplace/echo:2.2.3-20190104153242
+gcr.io/spinnaker-marketplace/echo:2.2.3-20190104153242
+gcr.io/spinnaker-marketplace/front50:0.14.0-20181207134351
+gcr.io/spinnaker-marketplace/front50:0.14.0-20181207134351
+gcr.io/spinnaker-marketplace/gate:1.4.0-20181217192627
+gcr.io/spinnaker-marketplace/gate:1.4.0-20181217192627
+gcr.io/spinnaker-marketplace/igor:1.0.0-20181207134351
+gcr.io/spinnaker-marketplace/igor:1.0.0-20181207134351
+gcr.io/spinnaker-marketplace/orca:2.2.0-20190111140043
+gcr.io/spinnaker-marketplace/orca:2.2.0-20190111140043
+gcr.io/spinnaker-marketplace/rosco:0.8.2-20181221095200
+gcr.io/spinnaker-marketplace/rosco:0.8.2-20181221095200
