@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x -e
 
-if [[ -z $TARGET_REPO_PASSWORD ]]; then
+if [[ -n $TARGET_REPO_PASSWORD ]]; then
   docker login -u $TARGET_REPO -p $TARGET_REPO_PASSWORD  
 fi
 
