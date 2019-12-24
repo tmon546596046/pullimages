@@ -2,6 +2,6 @@
 
 cat images | while read line
 do
-echo $line
+echo save $line to dockerhub $TARGET_REPO
 done
 
