@@ -1,2 +1,1 @@
-k8s.gcr.io/defaultbackend-amd64:1.5
-k8s.gcr.io/ingress-nginx/controller:v0.41.2
+registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:1.2
