@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:1.2
+k8s.gcr.io/sig-storage/local-volume-provisioner:v2.4.0
