@@ -1,5 +1,5 @@
 # Pullimages
-[![Build Status](https://travis-ci.org/tmon546596046/pullimages.svg?branch=master)](https://travis-ci.org/tmon546596046/pullimages)
+[![Build Status](https://travis-ci.com/tmon546596046/pullimages.svg?branch=master)](https://travis-ci.com/tmon546596046/pullimages)
 ----
 This Repo helps you download the docker images from one registry(e.g. gcr.io) then upload them to another registry (e.g. [Docker Hub](https://hub.docker.com/)). This Repo helps you to access the registry which is behind GFW
 
