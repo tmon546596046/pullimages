@@ -1,1 +1,1 @@
-k8s.gcr.io/sig-storage/csi-snapshotter:v4.0.0
+k8s.gcr.io/sig-storage/snapshot-controller:v4.0.0
