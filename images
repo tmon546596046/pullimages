@@ -1,1 +1,2 @@
-k8s.gcr.io/sig-storage/csi-snapshotter:v3.0.3
+velero/velero:v1.8.1
+velero/velero-plugin-for-aws:v1.4.1
