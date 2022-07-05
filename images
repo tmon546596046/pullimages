@@ -1,2 +1,1 @@
-velero/velero:v1.8.1
-velero/velero-plugin-for-aws:v1.4.1
+registry.k8s.io/ingress-nginx/controller:v1.2.1
